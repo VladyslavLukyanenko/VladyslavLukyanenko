@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vladyslav</h1>
 <h3 align="center">Dedicated, experienced and self-taught Backend Developer with 5 years of experience from Ukraine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vladyslavlukyanenko&label=Profile%20views&color=0e75b6&style=flat" alt="vladyslavlukyanenko" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vladyslavlukyanenko" alt="vladyslavlukyanenko" /></a> </p>
-
 - 🌱 I’m currently learning **rust, low-level networking, ja3, tls**
 
 - 💬 Ask me about **golang,**
