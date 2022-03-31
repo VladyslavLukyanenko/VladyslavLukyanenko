@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vladyslav</h1>
-<h3 align="center">Dedicated, experienced and self-taught Backend Developer with 5 years of experience from Ukraine</h3>
+<h3 align="center">Tech-savvy and creative professional with over five years of experience leading development, design, testing, and implementation of effective industry-leading solutions.</h3>
 
 - 🌱 I’m currently learning **rust, low-level networking, ja3, tls**
 
-- 💬 Ask me about **golang,**
+- 💬 Ask me about **golang**
 
 - 📫 How to reach me **me@vladyslav.xyz**
 
