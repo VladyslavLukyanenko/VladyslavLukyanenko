@@ -17,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vladyslavlukyanenko&show_icons=true&locale=en&layout=compact" alt="vladyslavlukyanenko" /></p>
 
-![Spotify Stats](https://spotify-recently-played-readme.vercel.app/api?user=frzr2ketk4z4c8jps1738eqfu)
+[![Discord Presence](https://lanyard.cnrad.dev/api/950403614059425802)](https://discord.com/users/950403614059425802) 
